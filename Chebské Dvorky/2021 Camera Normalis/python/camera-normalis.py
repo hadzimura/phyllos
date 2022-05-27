@@ -10,7 +10,6 @@ from modules.Relay import FourPortRelay
 import argparse
 from json import load
 import mido
-from random import randrange
 
 
 class CameraNormalis(object):
